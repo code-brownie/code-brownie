@@ -14,7 +14,7 @@ A self-taught `Full-Stack Developer`.
   - `Node.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
 
 ### Projects
-- [`Team-collab`](http://brownie-team-collab.vercel.app/)
+- [`Team-collab(Project Management Tool)`](https://brownie-team-collab.vercel.app/)
 
 
 ---
