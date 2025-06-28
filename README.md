@@ -15,6 +15,7 @@ A self-taught `Full-Stack Developer`.
 
 ### Projects
 - [`Team-collab(Project Management Tool)`](https://brownie-team-collab.vercel.app/)
+- [`PDF summarizer(Summarize your Pdf using AI)`](https://github.com/code-brownie/Pdf-summarizer)
 
 
 ---
